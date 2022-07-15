@@ -8,9 +8,9 @@ A GUI based image-augmentation tool for creating augmented image dataset impleme
 * /sample/: Sample images to test run.
 * /test/: Sample of tested images.
 * /: 
-    >> * aug.py
-    >> * requirements.txt
-    >> * readme.pdf
+    > * aug.py
+    > * requirements.txt
+    > * readme.pdf
 
 # Packages
 
