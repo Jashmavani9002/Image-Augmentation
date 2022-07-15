@@ -43,8 +43,8 @@ If this doesn't work write : <b>python3 aug.py</b>
 
 # UI
 <p>
-    <img src='assets/UI.PNG'>
+    <img src='assets/sampleui1.png'>
     <br>
     <br>
-    <img src='assets/UI1.PNG'>
+    <img src='assets/sampleui2.png'>
 </p>
