@@ -1,7 +1,7 @@
 # Image-Augmentation
-# Visualize Image Augmentation
 A GUI based image-augmentation tool for creating augmented image dataset implemented.
 
+> Do this project in Oct-2020
 # Project Directory
 
 * /assets/: MakeData.ui,Interface.ui,logo.png,temp.png.
